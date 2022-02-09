@@ -1,2 +1,2 @@
-# Adaptive
-Adaptive Resources DeFi for Good
+# Adaptive Resources
+Adaptive Resources DeFi for Sustainable Supply Chains
